@@ -1,5 +1,0 @@
-{{#user}}
-Name:Dhananjay
-Skills:HTML,CSS,JS,Next.js,Tailwind CSS, Node.JS
-Email:pantpriyanshu31@gmail.com
-{{/user}}
